@@ -3,7 +3,7 @@ Plataforma web para la gestión, geolocalización de huertos
 
 ## Riesgos 
 
-| ID | Riesgo | Probabilidad | Impacto | Nivel | ¿Cómo lo prevengo? (Mitigación) | ¿Qué hago si llega a pasar? (Contingencia) |
+| ID | Riesgo | Probabilidad | Impacto | Nivel | ¿Cómo prevenirlo?  | ¿Qué se hace si llega a pasar??  |
 | :--- | :--- | :---: | :---: | :---: | :--- | :--- |
 | **R1** | **Falta de señal / internet en los huertos** | Alta | Alto | **Crítico** | Hacer que la página guarde datos básicos en la memoria del navegador para que no se trabe sin señal. | Dejar que el usuario guarde su información y hacer que se envíe sola cuando vuelva a tener internet. |
 | **R2** | **Que el GPS no dé la ubicación exacta del huerto** | Media | Alto | **Alto** | Dejar que el usuario mueva manualmente el pin en el mapa para marcar el punto exacto. | Mostrar la dirección escrita en texto y poner un botón para abrir el mapa directo en Google Maps o Waze. |
